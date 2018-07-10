@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ATA</string>
+    <string name="batt">Батарея</string>
+    <string name="scr">Дисплей</string>
+    <string name="tl">Телефон</string>
+    <string name="cpu">Процесор</string>
+</resources>
